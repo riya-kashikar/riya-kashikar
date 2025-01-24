@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm a 21-year-old UI/UX enthusiast and developer currently pursuing a B.E. in CSE-Cybersecurity at RCOEM. I’m passionate about designing intuitive, user-friendly interfaces and bringing them to life with clean, efficient code. 
-
 ---
 Thanks for stopping by! :)
 
